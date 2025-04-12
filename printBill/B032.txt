@@ -1,0 +1,18 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B032
+
+Customer details: 
+
+Customer Name: Janice Teh Li Qian
+Customer Telephone: 018-9968437
+Customer Email: JaniceTeh@gmail.com
+
+Details of service booking:
+
+Service name: Manicure & Pedicure with Emily Parker
+Appointment date: 23/9/2024
+Appointment time: 11:00-13:00
+
+Total Amount: RM 200.00

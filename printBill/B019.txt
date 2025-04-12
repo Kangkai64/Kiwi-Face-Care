@@ -1,0 +1,21 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B019
+
+Customer details: 
+
+Customer Name: Ali
+Customer Telephone: 012-3456789
+Customer Email: ali@gmail.com
+
+Details of service booking:
+
+Service name: Manicure & Pedicure with Emily Parker
+Appointment date: 17/9/2024
+Appointment time: 13:00-15:00
+
+Membership type: Platinum
+Member discount: 20%
+
+Total Amount: RM 160.00

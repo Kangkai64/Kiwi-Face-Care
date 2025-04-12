@@ -1,0 +1,21 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B039
+
+Customer details: 
+
+Customer Name: Muthu a/l Ramasamy
+Customer Telephone: 019-9012345
+Customer Email: muthu.ramasamy@example.com
+
+Details of service booking:
+
+Service name: Haircut with Emily Parker
+Appointment date: 27/9/2024
+Appointment time: 9:00-11:00
+
+Membership type: Platinum
+Member discount: 20%
+
+Total Amount: RM 64.00

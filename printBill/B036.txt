@@ -1,0 +1,21 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B036
+
+Customer details: 
+
+Customer Name: Muthu a/l Ramasamy
+Customer Telephone: 019-9012345
+Customer Email: muthu.ramasamy@example.com
+
+Details of service booking:
+
+Service name: Consultation with Olivia Brooks
+Appointment date: 23/9/2024
+Appointment time: 11:00-12:00
+
+Membership type: Platinum
+Member discount: 20%
+
+Total Amount: RM 80.00

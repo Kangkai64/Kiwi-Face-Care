@@ -1,0 +1,18 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B012
+
+Customer details: 
+
+Customer Name: Ali
+Customer Telephone: 012-3456789
+Customer Email: ali@gmail.com
+
+Details of service booking:
+
+Service name: Manicure & Pedicure with Jack Morgan
+Appointment date: 16/9/2024
+Appointment time: 11:00-13:00
+
+Total Amount: RM 200.00

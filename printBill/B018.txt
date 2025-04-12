@@ -1,0 +1,21 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B018
+
+Customer details: 
+
+Customer Name: Ali
+Customer Telephone: 012-3456789
+Customer Email: ali@gmail.com
+
+Details of service booking:
+
+Service name: Consultation with Emily Parker
+Appointment date: 17/9/2024
+Appointment time: 11:00-12:00
+
+Membership type: Platinum
+Member discount: 20%
+
+Total Amount: RM 80.00

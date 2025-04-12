@@ -1,0 +1,18 @@
+------------------------------------------------------
+                        Receipt
+------------------------------------------------------
+Booking No: B045
+
+Customer details: 
+
+Customer Name: Hame
+Customer Telephone: 011-2334567
+Customer Email: hame@gmail.com
+
+Details of service booking:
+
+Service name: Consultation with Jack Morgan
+Appointment date: 30/9/2024
+Appointment time: 17:00-18:00
+
+Total Amount: RM 100.00
